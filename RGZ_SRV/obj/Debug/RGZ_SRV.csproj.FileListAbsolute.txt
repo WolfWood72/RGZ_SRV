@@ -1,0 +1,12 @@
+d:\ivan\documents\visual studio 2015\Projects\RGZ_SRV\RGZ_SRV\bin\Debug\RGZ_SRV.exe.config
+d:\ivan\documents\visual studio 2015\Projects\RGZ_SRV\RGZ_SRV\obj\Debug\RGZ_SRV.csprojResolveAssemblyReference.cache
+d:\ivan\documents\visual studio 2015\Projects\RGZ_SRV\RGZ_SRV\obj\Debug\RGZ_SRV.Properties.Resources.resources
+d:\ivan\documents\visual studio 2015\Projects\RGZ_SRV\RGZ_SRV\obj\Debug\RGZ_SRV.csproj.GenerateResource.Cache
+d:\ivan\documents\visual studio 2015\Projects\RGZ_SRV\RGZ_SRV\bin\Debug\RGZ_SRV.exe
+d:\ivan\documents\visual studio 2015\Projects\RGZ_SRV\RGZ_SRV\bin\Debug\RGZ_SRV.pdb
+d:\ivan\documents\visual studio 2015\Projects\RGZ_SRV\RGZ_SRV\obj\Debug\RGZ_SRV.exe
+d:\ivan\documents\visual studio 2015\Projects\RGZ_SRV\RGZ_SRV\obj\Debug\RGZ_SRV.pdb
+D:\Ivan\Documents\Visual Studio 2015\Projects\RGZ_SRV\RGZ_SRV\obj\Debug\RGZ_SRV.AddPlaneForm.resources
+d:\Ivan\documents\visual studio 2015\Projects\RGZ_SRV\RGZ_SRV\obj\Debug\RGZ_SRV.AddRunwayForm.resources
+d:\Ivan\documents\visual studio 2015\Projects\RGZ_SRV\RGZ_SRV\obj\Debug\RGZ_SRV.Form1.resources
+d:\Ivan\documents\visual studio 2015\Projects\RGZ_SRV\RGZ_SRV\obj\Debug\RGZ_SRV.Credits.resources
